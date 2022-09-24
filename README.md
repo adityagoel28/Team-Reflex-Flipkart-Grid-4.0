@@ -1,4 +1,4 @@
-# Team - Reflex-Flipkart-Grid-4.0
+# Team - Reflex
 ## Topic - Blockchain-based eCommerce warranty system using NFTs
 
 <p align="center">
